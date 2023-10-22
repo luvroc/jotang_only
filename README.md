@@ -23,7 +23,7 @@
 <li><a href="https://github.com/luvroc/jotang_only/tree/main/reallyLuv">个人博客</a>：包含三页，完成度一般，个人的遗憾是写了很多效果未必好
 <li><a href="https://github.com/luvroc/jotang_only/tree/main/bili">b站尝试</a>：暂时只写了样式，会把后续的完成思路写到下一节
 </ul>
-
+<strong>如何打开他们？下载对应文件夹所有文件后打开html即可。为保证路径不要改名或者移动位置</strong>
 
 <h4 id="unfinished">未完成部分思路</h4>
 <p>如果看到这里,建议先看完bili里的各个example,你可以从中一步步看出我搭建样式布局的过程.
